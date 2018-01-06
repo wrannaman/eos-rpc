@@ -1,6 +1,6 @@
 {
   "name": "eos-rpc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An rpc api for the EOS blockchain",
   "main": "index.js",
   "scripts": {
