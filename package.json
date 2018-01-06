@@ -1,6 +1,6 @@
 {
   "name": "eos-rpc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An rpc api for the EOS blockchain",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "Blockchain"
   ],
   "author": "Andrew Pierno",
+  "url": "https://github.com/wrannaman/eos-rpc.git",
   "license": "MIT",
   "dependencies": {
     "superagent": "^3.8.2"
