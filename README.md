@@ -7,3 +7,5 @@ Feature complete [EOS RPC API](https://eosio.github.io/eos/group__eosiorpc.html)
 
 ## To test
 The tests are under the assumption you have followed the initial install from [EOS](https://github.com/EOSIO/eos)
+
+`$ npm test`
