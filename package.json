@@ -1,0 +1,21 @@
+{
+  "name": "eos-rpc",
+  "version": "0.0.1",
+  "description": "An rpc api for the EOS blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --runInBand"
+  },
+  "keywords": [
+    "EOS",
+    "Blockchain"
+  ],
+  "author": "Andrew Pierno",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
