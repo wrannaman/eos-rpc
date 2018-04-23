@@ -51,6 +51,7 @@ All calls are Promisified.
 
 ### Wallet 
 #### `wallet.create(name)`
+If the create fails, try putting an extra set of quotes like ```await wallet.create('"default"')```
 #### `wallet.open(name)`
 #### `wallet.lock(name)`
 #### `wallet.lock_all(name)`
